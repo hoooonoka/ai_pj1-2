@@ -1,5 +1,8 @@
 # ai_pj1-2
-# retrieve from https://gitlab.eng.unimelb.edu.au/zhouhuiw/comp90054-pacman
+# Contest
+
+retrieve from https://gitlab.eng.unimelb.edu.au/zhouhuiw/comp90054-pacman (the original repository)
+
 ## Team Information
 - team name: halation
 - team member:
