@@ -1,5 +1,5 @@
 # ai_pj1-2
-# Contest
+# Contest@unimelb
 
 retrieve from https://gitlab.eng.unimelb.edu.au/zhouhuiw/comp90054-pacman (the original repository)
 
